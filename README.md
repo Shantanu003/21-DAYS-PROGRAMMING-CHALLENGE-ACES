@@ -37,6 +37,18 @@
      * [Constructor Overloading](https://github.com/Shantanu003/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY_06/construct_overloading.cpp)
      * [Constructor Overloading 2](https://github.com/Shantanu003/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY_06/construct_over_2.cpp)
      
+* DAY 07
+      * [Sorting array containing 0 1 2 ](https://github.com/Shantanu003/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY_07/012sorting.cpp)
+      * [CodeChef College Chapter Prime Problem](https://github.com/Shantanu003/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY_07/Prime_problem.cpp)
+      * [Second Maximum among three numbers](https://github.com/Shantanu003/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY_07/Second_max.cpp)
+      * [Virtual Function](https://github.com/Shantanu003/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY_07/Virtual_function.cpp)
+      
+* DAY 08
+      * [Pointer](https://github.com/Shantanu003/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY_08/pointer.cpp)
+      * [Pointer Application](https://github.com/Shantanu003/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY_08/pointer1.cpp)
+      * [Pointer Application](https://github.com/Shantanu003/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY_08/pointer2.cpp)
+      * [Swap Number using pointer](https://github.com/Shantanu003/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY_08/swap_pointer.cpp)
+     
 
 
 
