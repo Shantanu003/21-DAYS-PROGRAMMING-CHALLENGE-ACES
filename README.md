@@ -49,8 +49,10 @@
      * [Pointer Application](https://github.com/Shantanu003/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY_08/pointer2.cpp)
      * [Swap Number using pointer](https://github.com/Shantanu003/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY_08/swap_pointer.cpp)
      
-
-
+* DAY 09
+     * [Structure](https://github.com/Shantanu003/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY_09/Structure.cpp)
+     * [Structure with Function](https://github.com/Shantanu003/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY_09/Struct_Function.cpp)
+     * [Structure and Function](https://github.com/Shantanu003/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY_09/Struct_func_2.cpp)
 
 
 
