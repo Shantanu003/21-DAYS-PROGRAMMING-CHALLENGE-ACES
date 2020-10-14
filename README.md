@@ -53,6 +53,13 @@
      * [Structure](https://github.com/Shantanu003/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY_09/Structure.cpp)
      * [Structure with Function](https://github.com/Shantanu003/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY_09/Struct_Function.cpp)
      * [Structure and Function](https://github.com/Shantanu003/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY_09/Struct_func_2.cpp)
+     
+* DAY 10
+     * [Inheritance](https://github.com/Shantanu003/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY_10/Inheritannce.cpp)
+     * [Single Inheritance](https://github.com/Shantanu003/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY_10/Single_inheritance.cpp)
+     * [Multilevel Inheritance](https://github.com/Shantanu003/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY_10/Mulitilevel_inheritance.cpp)
+     * [Multiple Inheritance](https://github.com/Shantanu003/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY_10/Multiple_inheritance.cpp)
+     * [Hierarchical Ineritance](https://github.com/Shantanu003/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY_10/Hierarchical_inheritance.cpp)
 
 
 
